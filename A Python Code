@@ -1,0 +1,11 @@
+//Write a python code (Must have at least 1 function). Write whatever comes to your mind FIRST, it might not serve any purpose.
+
+
+def myFunction(name):
+    fullname = name.split("-")
+    print("First name is - "+ fullname[0])
+    print("Last name is - "+ fullname[1])
+    
+    
+name = "Ajit-Kumar"
+myFunction(name)
