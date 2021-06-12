@@ -1,0 +1,10 @@
+Write commands to start, stop and restart a systemd service called "cronListener". 
+
+To start the cron service, use:
+# /etc/init.d/crond start
+
+To stop the cron service, use:
+# /etc/init.d/crond stop
+
+To restart the cron service, use:
+# /etc/init.d/crond restart
